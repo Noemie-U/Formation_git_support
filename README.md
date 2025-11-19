@@ -27,7 +27,7 @@ It will help us track the changes, the one who did it and avoid conflicts. So fo
 
 
 ## step 1 : create a issue on github
-[clic here to create a issue on github ](https://github.com/patgphygirard/COOPOO24-G13/issues/new)
+[clic here to create a issue on github ](https://github.com/Noemie-U/formation_git/issues/new)
 
 Under development section (at right) you find the link "create a branch" in blue. A new modal appears, just submit it!
 

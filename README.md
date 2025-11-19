@@ -23,7 +23,7 @@ all they need to know. The comments should usually include at least:
 
 **To make our work easier, please use the following tuto, DON'T PUSH ANYTHING IN MASTER(MAIN) WITHOUT A PULL REQUEST**
 
-It will help us track the changes, the one who did it and avoid conflicts. So folow me step by step and don't hesitate to ask question in the comments section or on Whatsapp :wink: 
+It will help us track the changes, the one who did it and avoid conflicts. So folow me step by step and don't hesitate to ask question in the comments section or by email :wink: 
 
 
 ## step 1 : create a issue on github
